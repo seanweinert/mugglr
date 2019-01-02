@@ -1,2 +1,2 @@
-# mugglr
+# Mugglr
 Muggle the news!
